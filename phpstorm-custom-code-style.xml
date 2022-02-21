@@ -86,8 +86,6 @@
   </ScssCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="FIELD_PREFIX" value="" />
-    <option name="FILE_NAME_STYLE" value="CAMEL_CASE" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
@@ -96,7 +94,6 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACES_WITHIN_UNION_TYPES" value="false" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
-    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
